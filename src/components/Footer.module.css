@@ -1,0 +1,39 @@
+.footer {
+  border-top: 1px solid #fff;
+  padding-block: 1rem;
+  margin-top: 3rem;
+}
+
+.ad {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.ad h4 {
+  font-size: 18px;
+}
+
+.ad-list {
+  display: flex;
+  gap: 4rem;
+  list-style: none;
+}
+
+.top-ge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.top-ge span {
+  font-size: 1rem;
+}
+
+.top-ge img {
+  width: auto;
+  height: 1rem;
+}
